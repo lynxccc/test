@@ -11,3 +11,9 @@
 # git add filename # 要带文件类型
 # git commit -m the-mark-you-wanna-add # 写的备注，方便回顾
 # git push origin main 
+
+# 使用git log查看历史后，如果一直动态，ctrl+C无法退出的话，可以使用Q键退出动态
+
+# 非常常用git status检查当前仓库提交状态
+
+# Git建立远程-本底仓库连接的前提是先在Github上建立远程仓库
