@@ -1,0 +1,13 @@
+# 重新用GitBash通过SSH连接了本地和GitHub
+# 检查本地SSH命令，参考网址https://blog.csdn.net/qq_43561914/article/details/116151351
+# ls -al ~/.ssh
+# 然后按常规教程添加绑定即可
+
+
+# 参考网址https://blog.csdn.net/black_sneak/article/details/139600633
+# 简单克隆仓库到本地和的本地文件通过GitBash上传
+# 很多文件可以使用“右键-GitBash Here”来打开gitbash
+# git clone the-SSH-of-a-Repositoy # 注意gitbash里不能ctrlC+ctrlV，但鼠标复制粘贴可以
+# git add filename # 要带文件类型
+# git commit -m the-mark-you-wanna-add # 写的备注，方便回顾
+# git push origin main 
